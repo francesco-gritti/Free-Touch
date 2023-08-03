@@ -1,0 +1,2043 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16LF18456 ]
+[d frameptr 6 ]
+"88 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr4.c
+[e E12198 . `uc
+TMR4_ROP_STARTS_TMRON 0
+TMR4_ROP_STARTS_TMRON_ERSHIGH 1
+TMR4_ROP_STARTS_TMRON_ERSLOW 2
+TMR4_ROP_RESETS_ERSBOTHEDGE 3
+TMR4_ROP_RESETS_ERSRISINGEDGE 4
+TMR4_ROP_RESETS_ERSFALLINGEDGE 5
+TMR4_ROP_RESETS_ERSLOW 6
+TMR4_ROP_RESETS_ERSHIGH 7
+TMR4_OS_STARTS_TMRON 8
+TMR4_OS_STARTS_ERSRISINGEDGE 9
+TMR4_OS_STARTS_ERSFALLINGEDGE 10
+TMR4_OS_STARTS_ERSBOTHEDGE 11
+TMR4_OS_STARTS_ERSFIRSTRISINGEDGE 12
+TMR4_OS_STARTS_ERSFIRSTFALLINGEDGE 13
+TMR4_OS_STARTS_ERSRISINGEDGEDETECT 14
+]
+"94
+[e E12215 . `uc
+TMR4_T4INPPS 0
+TMR4_T2POSTSCALED 1
+TMR4_RESERVED 2
+TMR4_T6POSTSCALED 3
+TMR4_CCP1_OUT 4
+TMR4_CCP2_OUT 5
+TMR4_CCP3_OUT 6
+TMR4_CCP4_OUT 7
+TMR4_PWM6_OUT 8
+TMR4_PWM7_OUT 9
+TMR4_CMP1_OUT 10
+TMR4_CMP2_OUT 11
+TMR4_ZCD_OUTPUT 12
+TMR4_CLC1_OUT 13
+TMR4_CLC2_OUT 14
+TMR4_CLC3_OUT 15
+TMR4_CLC4_OUT 16
+TMR4_CCP5_OUT 17
+TMR4_RESERVED_2 18
+]
+"88 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr2.c
+[e E12198 . `uc
+TMR2_ROP_STARTS_TMRON 0
+TMR2_ROP_STARTS_TMRON_ERSHIGH 1
+TMR2_ROP_STARTS_TMRON_ERSLOW 2
+TMR2_ROP_RESETS_ERSBOTHEDGE 3
+TMR2_ROP_RESETS_ERSRISINGEDGE 4
+TMR2_ROP_RESETS_ERSFALLINGEDGE 5
+TMR2_ROP_RESETS_ERSLOW 6
+TMR2_ROP_RESETS_ERSHIGH 7
+TMR2_OS_STARTS_TMRON 8
+TMR2_OS_STARTS_ERSRISINGEDGE 9
+TMR2_OS_STARTS_ERSFALLINGEDGE 10
+TMR2_OS_STARTS_ERSBOTHEDGE 11
+TMR2_OS_STARTS_ERSFIRSTRISINGEDGE 12
+TMR2_OS_STARTS_ERSFIRSTFALLINGEDGE 13
+TMR2_OS_STARTS_ERSRISINGEDGEDETECT 14
+]
+"94
+[e E12215 . `uc
+TMR2_T2INPPS 0
+TMR2_RESERVED 1
+TMR2_T4POSTSCALED 2
+TMR2_T6POSTSCALED 3
+TMR2_CCP1_OUT 4
+TMR2_CCP2_OUT 5
+TMR2_CCP3_OUT 6
+TMR2_CCP4_OUT 7
+TMR2_PWM6_OUT 8
+TMR2_PWM7_OUT 9
+TMR2_CMP1_OUT 10
+TMR2_CMP2_OUT 11
+TMR2_ZCD_OUTPUT 12
+TMR2_CLC1_OUT 13
+TMR2_CLC2_OUT 14
+TMR2_CLC3_OUT 15
+TMR2_CLC4_OUT 16
+TMR2_CCP5_OUT 17
+TMR2_RESERVED_2 18
+]
+"88 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr6.c
+[e E12198 . `uc
+TMR6_ROP_STARTS_TMRON 0
+TMR6_ROP_STARTS_TMRON_ERSHIGH 1
+TMR6_ROP_STARTS_TMRON_ERSLOW 2
+TMR6_ROP_RESETS_ERSBOTHEDGE 3
+TMR6_ROP_RESETS_ERSRISINGEDGE 4
+TMR6_ROP_RESETS_ERSFALLINGEDGE 5
+TMR6_ROP_RESETS_ERSLOW 6
+TMR6_ROP_RESETS_ERSHIGH 7
+TMR6_OS_STARTS_TMRON 8
+TMR6_OS_STARTS_ERSRISINGEDGE 9
+TMR6_OS_STARTS_ERSFALLINGEDGE 10
+TMR6_OS_STARTS_ERSBOTHEDGE 11
+TMR6_OS_STARTS_ERSFIRSTRISINGEDGE 12
+TMR6_OS_STARTS_ERSFIRSTFALLINGEDGE 13
+TMR6_OS_STARTS_ERSRISINGEDGEDETECT 14
+]
+"94
+[e E12215 . `uc
+TMR6_T6INPPS 0
+TMR6_T2POSTSCALED 1
+TMR6_T4POSTSCALED 2
+TMR6_RESERVED 3
+TMR6_CCP1_OUT 4
+TMR6_CCP2_OUT 5
+TMR6_CCP3_OUT 6
+TMR6_CCP4_OUT 7
+TMR6_PWM6_OUT 8
+TMR6_PWM7_OUT 9
+TMR6_CMP1_OUT 10
+TMR6_CMP2_OUT 11
+TMR6_ZCD_OUTPUT 12
+TMR6_CLC1_OUT 13
+TMR6_CLC2_OUT 14
+TMR6_CLC3_OUT 15
+TMR6_CLC4_OUT 16
+TMR6_CCP5_OUT 17
+TMR6_RESERVED_2 18
+]
+"114 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/adcc.c
+[e E12200 . `uc
+channel_ANB0 8
+channel_Vss 59
+channel_Temp_Sensor 60
+channel_DAC1_Output 61
+channel_FVR_Buffer1 62
+channel_FVR_Buffer2 63
+]
+"242 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[e E12438 . `uc
+channel_ANB0 8
+channel_Vss 59
+channel_Temp_Sensor 60
+channel_DAC1_Output 61
+channel_FVR_Buffer1 62
+channel_FVR_Buffer2 63
+]
+"1 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/abs.c
+[v _abs abs `(i  1 e 2 0 ]
+"5 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"43 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/fltol.c
+[v ___fltol __fltol `(l  1 e 4 0 ]
+"10 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"242
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"8 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"4 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/Umul8.c
+[v ___bmul __bmul `(uc  1 e 1 0 ]
+"4 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"10 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/xxtofl.c
+[v ___xxtofl __xxtofl `(d  1 e 4 0 ]
+"6 /Applications/microchip/xc8/v2.32/pic/sources/c99/pic/__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"11 /Users/francesco/MPLABXProjects/Free_Touch.X/button.c
+[v _arrangeButtonsInMatrix arrangeButtonsInMatrix `(v  1 e 1 0 ]
+"99
+[v _getIdxForButtonWithID getIdxForButtonWithID `(i  1 e 2 0 ]
+"111
+[v _createButtonList createButtonList `(i  1 e 2 0 ]
+"36 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _main main `(v  1 e 1 0 ]
+"295
+[v _playTone playTone `(v  1 e 1 0 ]
+"307
+[v _TMR1_ISRHandler TMR1_ISRHandler `(v  1 e 1 0 ]
+"317
+[v _pressButton pressButton `(v  1 e 1 0 ]
+"337
+[v _encoder1A_InterruptHandler encoder1A_InterruptHandler `(v  1 e 1 0 ]
+"368
+[v _encoder1B_InterruptHandler encoder1B_InterruptHandler `(v  1 e 1 0 ]
+"377
+[v _encoder2A_InterruptHandler encoder2A_InterruptHandler `(v  1 e 1 0 ]
+"409
+[v _encoder2B_InterruptHandler encoder2B_InterruptHandler `(v  1 e 1 0 ]
+"417
+[v _setAddress setAddress `T(v  1 e 1 0 ]
+"63 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/adcc.c
+[v _ADCC_Initialize ADCC_Initialize `(v  1 e 1 0 ]
+"114
+[v _ADCC_StartConversion ADCC_StartConversion `(v  1 e 1 0 ]
+"126
+[v _ADCC_IsConversionDone ADCC_IsConversionDone `(a  1 e 1 0 ]
+"132
+[v _ADCC_GetConversionResult ADCC_GetConversionResult `(us  1 e 2 0 ]
+"58 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/clc1.c
+[v _CLC1_Initialize CLC1_Initialize `(v  1 e 1 0 ]
+"58 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/clc2.c
+[v _CLC2_Initialize CLC2_Initialize `(v  1 e 1 0 ]
+"88 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/eusart2.c
+[v _EUSART2_Initialize EUSART2_Initialize `(v  1 e 1 0 ]
+"173
+[v _EUSART2_Write EUSART2_Write `(v  1 e 1 0 ]
+"197
+[v _EUSART2_Transmit_ISR EUSART2_Transmit_ISR `(v  1 e 1 0 ]
+"216
+[v _EUSART2_Receive_ISR EUSART2_Receive_ISR `(v  1 e 1 0 ]
+"240
+[v _EUSART2_RxDataHandler EUSART2_RxDataHandler `(v  1 e 1 0 ]
+"250
+[v _EUSART2_DefaultFramingErrorHandler EUSART2_DefaultFramingErrorHandler `(v  1 e 1 0 ]
+"252
+[v _EUSART2_DefaultOverrunErrorHandler EUSART2_DefaultOverrunErrorHandler `(v  1 e 1 0 ]
+"260
+[v _EUSART2_DefaultErrorHandler EUSART2_DefaultErrorHandler `(v  1 e 1 0 ]
+"264
+[v _EUSART2_SetFramingErrorHandler EUSART2_SetFramingErrorHandler `(v  1 e 1 0 ]
+"268
+[v _EUSART2_SetOverrunErrorHandler EUSART2_SetOverrunErrorHandler `(v  1 e 1 0 ]
+"272
+[v _EUSART2_SetErrorHandler EUSART2_SetErrorHandler `(v  1 e 1 0 ]
+"276
+[v _EUSART2_SetTxInterruptHandler EUSART2_SetTxInterruptHandler `(v  1 e 1 0 ]
+"280
+[v _EUSART2_SetRxInterruptHandler EUSART2_SetRxInterruptHandler `(v  1 e 1 0 ]
+"52 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `II(v  1 e 1 0 ]
+"50 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+"65
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+"81
+[v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
+"58 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/memory.c
+[v _FLASH_ReadWord FLASH_ReadWord `(us  1 e 2 0 ]
+"94
+[v _FLASH_WriteBlock FLASH_WriteBlock `(c  1 e 1 0 ]
+"149
+[v _FLASH_EraseBlock FLASH_EraseBlock `(v  1 e 1 0 ]
+"180
+[v _DATAEE_WriteByte DATAEE_WriteByte `(v  1 e 1 0 ]
+"202
+[v _DATAEE_ReadByte DATAEE_ReadByte `(uc  1 e 1 0 ]
+"60 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+"164
+[v _PIN_MANAGER_IOC PIN_MANAGER_IOC `(v  1 e 1 0 ]
+"191
+[v _IOCCF4_ISR IOCCF4_ISR `(v  1 e 1 0 ]
+"206
+[v _IOCCF4_SetInterruptHandler IOCCF4_SetInterruptHandler `(v  1 e 1 0 ]
+"213
+[v _IOCCF4_DefaultInterruptHandler IOCCF4_DefaultInterruptHandler `(v  1 e 1 0 ]
+"221
+[v _IOCCF5_ISR IOCCF5_ISR `(v  1 e 1 0 ]
+"236
+[v _IOCCF5_SetInterruptHandler IOCCF5_SetInterruptHandler `(v  1 e 1 0 ]
+"243
+[v _IOCCF5_DefaultInterruptHandler IOCCF5_DefaultInterruptHandler `(v  1 e 1 0 ]
+"251
+[v _IOCCF6_ISR IOCCF6_ISR `(v  1 e 1 0 ]
+"266
+[v _IOCCF6_SetInterruptHandler IOCCF6_SetInterruptHandler `(v  1 e 1 0 ]
+"273
+[v _IOCCF6_DefaultInterruptHandler IOCCF6_DefaultInterruptHandler `(v  1 e 1 0 ]
+"281
+[v _IOCCF7_ISR IOCCF7_ISR `(v  1 e 1 0 ]
+"296
+[v _IOCCF7_SetInterruptHandler IOCCF7_SetInterruptHandler `(v  1 e 1 0 ]
+"303
+[v _IOCCF7_DefaultInterruptHandler IOCCF7_DefaultInterruptHandler `(v  1 e 1 0 ]
+"64 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr1.c
+[v _TMR1_Initialize TMR1_Initialize `(v  1 e 1 0 ]
+"99
+[v _TMR1_StartTimer TMR1_StartTimer `(v  1 e 1 0 ]
+"105
+[v _TMR1_StopTimer TMR1_StopTimer `(v  1 e 1 0 ]
+"127
+[v _TMR1_WriteTimer TMR1_WriteTimer `(v  1 e 1 0 ]
+[v i1_TMR1_WriteTimer TMR1_WriteTimer `(v  1 e 1 0 ]
+"164
+[v _TMR1_ISR TMR1_ISR `(v  1 e 1 0 ]
+"178
+[v _TMR1_SetInterruptHandler TMR1_SetInterruptHandler `(v  1 e 1 0 ]
+"182
+[v _TMR1_DefaultInterruptHandler TMR1_DefaultInterruptHandler `(v  1 e 1 0 ]
+"62 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr2.c
+[v _TMR2_Initialize TMR2_Initialize `(v  1 e 1 0 ]
+"100
+[v _TMR2_Start TMR2_Start `(v  1 e 1 0 ]
+"111
+[v _TMR2_Stop TMR2_Stop `(v  1 e 1 0 ]
+"122
+[v _TMR2_Counter8BitGet TMR2_Counter8BitGet `(uc  1 e 1 0 ]
+"136
+[v _TMR2_Counter8BitSet TMR2_Counter8BitSet `(v  1 e 1 0 ]
+"147
+[v _TMR2_Period8BitSet TMR2_Period8BitSet `(v  1 e 1 0 ]
+"62 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr4.c
+[v _TMR4_Initialize TMR4_Initialize `(v  1 e 1 0 ]
+"100
+[v _TMR4_Start TMR4_Start `(v  1 e 1 0 ]
+"111
+[v _TMR4_Stop TMR4_Stop `(v  1 e 1 0 ]
+"122
+[v _TMR4_Counter8BitGet TMR4_Counter8BitGet `(uc  1 e 1 0 ]
+"136
+[v _TMR4_Counter8BitSet TMR4_Counter8BitSet `(v  1 e 1 0 ]
+"147
+[v _TMR4_Period8BitSet TMR4_Period8BitSet `(v  1 e 1 0 ]
+"152
+[v _TMR4_LoadPeriodRegister TMR4_LoadPeriodRegister `(v  1 e 1 0 ]
+"62 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr6.c
+[v _TMR6_Initialize TMR6_Initialize `(v  1 e 1 0 ]
+"100
+[v _TMR6_Start TMR6_Start `(v  1 e 1 0 ]
+"111
+[v _TMR6_Stop TMR6_Stop `(v  1 e 1 0 ]
+"122
+[v _TMR6_Counter8BitGet TMR6_Counter8BitGet `(uc  1 e 1 0 ]
+"136
+[v _TMR6_Counter8BitSet TMR6_Counter8BitSet `(v  1 e 1 0 ]
+"147
+[v _TMR6_Period8BitSet TMR6_Period8BitSet `(v  1 e 1 0 ]
+"12 /Users/francesco/MPLABXProjects/Free_Touch.X/motor_handler.c
+[v _homeMotorX homeMotorX `T(v  1 e 1 0 ]
+"20
+[v _setTargetX setTargetX `T(v  1 e 1 0 ]
+"46
+[v _homeMotorY homeMotorY `T(v  1 e 1 0 ]
+"55
+[v _setTargetY setTargetY `T(v  1 e 1 0 ]
+"85 /Users/francesco/MPLABXProjects/Free_Touch.X/RN4871.c
+[v _sendACK sendACK `(v  1 e 1 0 ]
+"98
+[v _setRandomAddress setRandomAddress `(v  1 e 1 0 ]
+"107
+[v _setAdvertisementManufacturerData setAdvertisementManufacturerData `(v  1 e 1 0 ]
+"130
+[v _enterCommandMode enterCommandMode `(v  1 e 1 0 ]
+"137
+[v _exitCommandMode exitCommandMode `(v  1 e 1 0 ]
+"166
+[v _USART_Handler USART_Handler `(v  1 e 1 0 ]
+"14 /Users/francesco/MPLABXProjects/Free_Touch.X/servo.c
+[v _servoPress servoPress `T(v  1 e 1 0 ]
+"19
+[v _servoRelease servoRelease `T(v  1 e 1 0 ]
+[s S1839 . 1 `uc 1 INTEDG 1 0 :1:0 
+`uc 1 . 1 0 :5:1 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+"427 /Applications/microchip/mplabx/v5.45/packs/Microchip/PIC16F1xxxx_DFP/1.5.133/xc8/pic/include/proc/pic16lf18456.h
+[u S1844 . 1 `S1839 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES1844  1 e 1 @11 ]
+[s S2708 . 1 `uc 1 RB0 1 0 :1:0 
+`uc 1 RB1 1 0 :1:1 
+`uc 1 RB2 1 0 :1:2 
+`uc 1 RB3 1 0 :1:3 
+`uc 1 RB4 1 0 :1:4 
+`uc 1 RB5 1 0 :1:5 
+`uc 1 RB6 1 0 :1:6 
+`uc 1 RB7 1 0 :1:7 
+]
+"526
+[u S2717 . 1 `S2708 1 . 1 0 ]
+[v _PORTBbits PORTBbits `VES2717  1 e 1 @13 ]
+[s S2397 . 1 `uc 1 RC0 1 0 :1:0 
+`uc 1 RC1 1 0 :1:1 
+`uc 1 RC2 1 0 :1:2 
+`uc 1 RC3 1 0 :1:3 
+`uc 1 RC4 1 0 :1:4 
+`uc 1 RC5 1 0 :1:5 
+`uc 1 RC6 1 0 :1:6 
+`uc 1 RC7 1 0 :1:7 
+]
+"588
+[u S2406 . 1 `S2397 1 . 1 0 ]
+[v _PORTCbits PORTCbits `VES2406  1 e 1 @14 ]
+"654
+[v _TRISA TRISA `VEuc  1 e 1 @18 ]
+"716
+[v _TRISB TRISB `VEuc  1 e 1 @19 ]
+"778
+[v _TRISC TRISC `VEuc  1 e 1 @20 ]
+"840
+[v _TRISE TRISE `VEuc  1 e 1 @22 ]
+"861
+[v _LATA LATA `VEuc  1 e 1 @24 ]
+[s S2418 . 1 `uc 1 LATA0 1 0 :1:0 
+`uc 1 LATA1 1 0 :1:1 
+`uc 1 LATA2 1 0 :1:2 
+`uc 1 LATA3 1 0 :1:3 
+`uc 1 LATA4 1 0 :1:4 
+`uc 1 LATA5 1 0 :1:5 
+`uc 1 LATA6 1 0 :1:6 
+`uc 1 LATA7 1 0 :1:7 
+]
+"878
+[u S2427 . 1 `S2418 1 . 1 0 ]
+[v _LATAbits LATAbits `VES2427  1 e 1 @24 ]
+"923
+[v _LATB LATB `VEuc  1 e 1 @25 ]
+[s S2210 . 1 `uc 1 LATB0 1 0 :1:0 
+`uc 1 LATB1 1 0 :1:1 
+`uc 1 LATB2 1 0 :1:2 
+`uc 1 LATB3 1 0 :1:3 
+`uc 1 LATB4 1 0 :1:4 
+`uc 1 LATB5 1 0 :1:5 
+`uc 1 LATB6 1 0 :1:6 
+`uc 1 LATB7 1 0 :1:7 
+]
+"940
+[u S2219 . 1 `S2210 1 . 1 0 ]
+[v _LATBbits LATBbits `VES2219  1 e 1 @25 ]
+"985
+[v _LATC LATC `VEuc  1 e 1 @26 ]
+[s S2439 . 1 `uc 1 LATC0 1 0 :1:0 
+`uc 1 LATC1 1 0 :1:1 
+`uc 1 LATC2 1 0 :1:2 
+`uc 1 LATC3 1 0 :1:3 
+`uc 1 LATC4 1 0 :1:4 
+`uc 1 LATC5 1 0 :1:5 
+`uc 1 LATC6 1 0 :1:6 
+`uc 1 LATC7 1 0 :1:7 
+]
+"1002
+[u S2448 . 1 `S2439 1 . 1 0 ]
+[v _LATCbits LATCbits `VES2448  1 e 1 @26 ]
+"1047
+[v _LATE LATE `VEuc  1 e 1 @28 ]
+"1075
+[v _ADLTHL ADLTHL `VEuc  1 e 1 @140 ]
+"1203
+[v _ADLTHH ADLTHH `VEuc  1 e 1 @141 ]
+"1338
+[v _ADUTHL ADUTHL `VEuc  1 e 1 @142 ]
+"1466
+[v _ADUTHH ADUTHH `VEuc  1 e 1 @143 ]
+"1601
+[v _ADERRL ADERRL `VEuc  1 e 1 @144 ]
+"1729
+[v _ADERRH ADERRH `VEuc  1 e 1 @145 ]
+"1864
+[v _ADSTPTL ADSTPTL `VEuc  1 e 1 @146 ]
+"1992
+[v _ADSTPTH ADSTPTH `VEuc  1 e 1 @147 ]
+"2127
+[v _ADFLTRL ADFLTRL `VEuc  1 e 1 @148 ]
+"2255
+[v _ADFLTRH ADFLTRH `VEuc  1 e 1 @149 ]
+"2392
+[v _ADACCL ADACCL `VEuc  1 e 1 @150 ]
+"2520
+[v _ADACCH ADACCH `VEuc  1 e 1 @151 ]
+"2648
+[v _ADACCU ADACCU `VEuc  1 e 1 @152 ]
+"2776
+[v _ADCNT ADCNT `VEuc  1 e 1 @153 ]
+"2904
+[v _ADRPT ADRPT `VEuc  1 e 1 @154 ]
+"3039
+[v _ADPREVL ADPREVL `VEuc  1 e 1 @155 ]
+"3167
+[v _ADPREVH ADPREVH `VEuc  1 e 1 @156 ]
+"3302
+[v _ADRESL ADRESL `VEuc  1 e 1 @157 ]
+"3430
+[v _ADRESH ADRESH `VEuc  1 e 1 @158 ]
+"3550
+[v _ADPCH ADPCH `VEuc  1 e 1 @159 ]
+"3661
+[v _ADACQL ADACQL `VEuc  1 e 1 @268 ]
+"3789
+[v _ADACQH ADACQH `VEuc  1 e 1 @269 ]
+"3881
+[v _ADCAP ADCAP `VEuc  1 e 1 @270 ]
+"3980
+[v _ADPREL ADPREL `VEuc  1 e 1 @271 ]
+"4108
+[v _ADPREH ADPREH `VEuc  1 e 1 @272 ]
+"4200
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @273 ]
+[s S1434 . 1 `uc 1 GO 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 FM 1 0 :2:2 
+`uc 1 CS 1 0 :1:4 
+`uc 1 . 1 0 :1:5 
+`uc 1 CONT 1 0 :1:6 
+`uc 1 ON 1 0 :1:7 
+]
+"4241
+[s S1442 . 1 `uc 1 ADGO 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 ADFM 1 0 :2:2 
+`uc 1 ADCS 1 0 :1:4 
+`uc 1 . 1 0 :1:5 
+`uc 1 ADCONT 1 0 :1:6 
+`uc 1 ADON 1 0 :1:7 
+]
+[s S1450 . 1 `uc 1 DONE 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 FM0 1 0 :1:2 
+`uc 1 FM1 1 0 :1:3 
+]
+[s S1455 . 1 `uc 1 GO_nDONE 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 ADFM0 1 0 :1:2 
+`uc 1 ADFM1 1 0 :1:3 
+]
+[s S1460 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 ADCAL 1 0 :1:7 
+]
+[u S1463 . 1 `S1434 1 . 1 0 `S1442 1 . 1 0 `S1450 1 . 1 0 `S1455 1 . 1 0 `S1460 1 . 1 0 ]
+[v _ADCON0bits ADCON0bits `VES1463  1 e 1 @273 ]
+"4331
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @274 ]
+[s S1695 . 1 `uc 1 DSEN 1 0 :1:0 
+`uc 1 . 1 0 :2:1 
+`uc 1 GBOE 1 0 :1:3 
+`uc 1 GAOE 1 0 :1:4 
+`uc 1 GPOL 1 0 :1:5 
+`uc 1 IPEN 1 0 :1:6 
+`uc 1 PPOL 1 0 :1:7 
+]
+"4362
+[s S1703 . 1 `uc 1 ADDSEN 1 0 :1:0 
+`uc 1 . 1 0 :2:1 
+`uc 1 ADGBOE 1 0 :1:3 
+`uc 1 ADGAOE 1 0 :1:4 
+`uc 1 ADGPOL 1 0 :1:5 
+`uc 1 ADIPEN 1 0 :1:6 
+`uc 1 ADPPOL 1 0 :1:7 
+]
+[s S1711 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 CHSN3 1 0 :1:3 
+`uc 1 VCFG01 1 0 :1:4 
+`uc 1 VCFG11 1 0 :1:5 
+]
+[u S1716 . 1 `S1695 1 . 1 0 `S1703 1 . 1 0 `S1711 1 . 1 0 ]
+[v _ADCON1bits ADCON1bits `VES1716  1 e 1 @274 ]
+"4442
+[v _ADCON2 ADCON2 `VEuc  1 e 1 @275 ]
+[s S1556 . 1 `uc 1 MODE 1 0 :3:0 
+`uc 1 ACLR 1 0 :1:3 
+`uc 1 CRS 1 0 :3:4 
+`uc 1 PSIS 1 0 :1:7 
+]
+"4490
+[s S1561 . 1 `uc 1 ADMD0 1 0 :1:0 
+`uc 1 ADMD1 1 0 :1:1 
+`uc 1 ADMD2 1 0 :1:2 
+`uc 1 ADACLR 1 0 :1:3 
+`uc 1 ADCRS0 1 0 :1:4 
+`uc 1 ADCRS1 1 0 :1:5 
+`uc 1 ADCRS2 1 0 :1:6 
+`uc 1 ADPSIS 1 0 :1:7 
+]
+[s S1570 . 1 `uc 1 ADMD 1 0 :3:0 
+`uc 1 . 1 0 :1:3 
+`uc 1 ADCRS 1 0 :3:4 
+]
+[s S1574 . 1 `uc 1 MODE0 1 0 :1:0 
+`uc 1 MODE1 1 0 :1:1 
+`uc 1 MODE2 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 CRS0 1 0 :1:4 
+`uc 1 CRS1 1 0 :1:5 
+`uc 1 CRS2 1 0 :1:6 
+]
+[s S1582 . 1 `uc 1 MD 1 0 :3:0 
+]
+[s S1584 . 1 `uc 1 MD0 1 0 :1:0 
+`uc 1 MD1 1 0 :1:1 
+`uc 1 MD2 1 0 :1:2 
+]
+[s S1588 . 1 `uc 1 ADMODE 1 0 :3:0 
+]
+[u S1590 . 1 `S1556 1 . 1 0 `S1561 1 . 1 0 `S1570 1 . 1 0 `S1574 1 . 1 0 `S1582 1 . 1 0 `S1584 1 . 1 0 `S1588 1 . 1 0 ]
+[v _ADCON2bits ADCON2bits `VES1590  1 e 1 @275 ]
+"4620
+[v _ADCON3 ADCON3 `VEuc  1 e 1 @276 ]
+[s S1501 . 1 `uc 1 TMD 1 0 :3:0 
+`uc 1 SOI 1 0 :1:3 
+`uc 1 CALC 1 0 :3:4 
+]
+"4655
+[s S1505 . 1 `uc 1 ADTMD0 1 0 :1:0 
+`uc 1 ADTMD1 1 0 :1:1 
+`uc 1 ADTMD2 1 0 :1:2 
+`uc 1 ADSOI 1 0 :1:3 
+`uc 1 ADCALC0 1 0 :1:4 
+`uc 1 ADCALC1 1 0 :1:5 
+`uc 1 ADCALC2 1 0 :1:6 
+]
+[s S1513 . 1 `uc 1 ADTMD 1 0 :3:0 
+`uc 1 . 1 0 :1:3 
+`uc 1 ADCALC 1 0 :3:4 
+]
+[s S1517 . 1 `uc 1 TMD0 1 0 :1:0 
+`uc 1 TMD1 1 0 :1:1 
+`uc 1 TMD2 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 CALC0 1 0 :1:4 
+`uc 1 CALC1 1 0 :1:5 
+`uc 1 CALC2 1 0 :1:6 
+]
+[u S1525 . 1 `S1501 1 . 1 0 `S1505 1 . 1 0 `S1513 1 . 1 0 `S1517 1 . 1 0 ]
+[v _ADCON3bits ADCON3bits `VES1525  1 e 1 @276 ]
+"4750
+[v _ADSTAT ADSTAT `VEuc  1 e 1 @277 ]
+[s S1635 . 1 `uc 1 STAT 1 0 :3:0 
+`uc 1 . 1 0 :1:3 
+`uc 1 MATH 1 0 :1:4 
+`uc 1 LTHR 1 0 :1:5 
+`uc 1 UTHR 1 0 :1:6 
+`uc 1 OV 1 0 :1:7 
+]
+"4785
+[s S1642 . 1 `uc 1 ADSTAT0 1 0 :1:0 
+`uc 1 ADSTAT1 1 0 :1:1 
+`uc 1 ADSTAT2 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 ADMATH 1 0 :1:4 
+`uc 1 ADLTHR 1 0 :1:5 
+`uc 1 ADUTHR 1 0 :1:6 
+`uc 1 ADAOV 1 0 :1:7 
+]
+[s S1651 . 1 `uc 1 ADSTAT 1 0 :3:0 
+`uc 1 . 1 0 :4:3 
+`uc 1 ADOV 1 0 :1:7 
+]
+[s S1655 . 1 `uc 1 STAT0 1 0 :1:0 
+`uc 1 STAT1 1 0 :1:1 
+`uc 1 STAT2 1 0 :1:2 
+]
+[u S1659 . 1 `S1635 1 . 1 0 `S1642 1 . 1 0 `S1651 1 . 1 0 `S1655 1 . 1 0 ]
+[v _ADSTATbits ADSTATbits `VES1659  1 e 1 @277 ]
+"4875
+[v _ADREF ADREF `VEuc  1 e 1 @278 ]
+"5015
+[v _ADACT ADACT `VEuc  1 e 1 @279 ]
+"5107
+[v _ADCLK ADCLK `VEuc  1 e 1 @280 ]
+"7942
+[v _TMR1L TMR1L `VEuc  1 e 1 @524 ]
+"8012
+[v _TMR1H TMR1H `VEuc  1 e 1 @525 ]
+"8082
+[v _T1CON T1CON `VEuc  1 e 1 @526 ]
+[s S2067 . 1 `uc 1 ON 1 0 :1:0 
+`uc 1 RD16 1 0 :1:1 
+`uc 1 NOT_SYNC 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 CKPS 1 0 :2:4 
+]
+"8118
+[s S2073 . 1 `uc 1 TMR1ON 1 0 :1:0 
+`uc 1 T1RD16 1 0 :1:1 
+`uc 1 NOT_T1SYNC 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 T1CKPS0 1 0 :1:4 
+`uc 1 T1CKPS1 1 0 :1:5 
+]
+[s S2080 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 CKPS0 1 0 :1:4 
+`uc 1 CKPS1 1 0 :1:5 
+]
+[s S2084 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 RD161 1 0 :1:1 
+]
+[u S2087 . 1 `S2067 1 . 1 0 `S2073 1 . 1 0 `S2080 1 . 1 0 `S2084 1 . 1 0 ]
+[v _T1CONbits T1CONbits `VES2087  1 e 1 @526 ]
+"8272
+[v _T1GCON T1GCON `VEuc  1 e 1 @527 ]
+[s S2113 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 GVAL 1 0 :1:2 
+`uc 1 GGO 1 0 :1:3 
+`uc 1 GSPM 1 0 :1:4 
+`uc 1 GTM 1 0 :1:5 
+`uc 1 GPOL 1 0 :1:6 
+`uc 1 GE 1 0 :1:7 
+]
+"8310
+[s S2121 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 T1GVAL 1 0 :1:2 
+`uc 1 T1GGO 1 0 :1:3 
+`uc 1 T1GSPM 1 0 :1:4 
+`uc 1 T1GTM 1 0 :1:5 
+`uc 1 T1GPOL 1 0 :1:6 
+`uc 1 T1GE 1 0 :1:7 
+]
+[s S2129 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 NOT_DONE 1 0 :1:3 
+]
+[s S2132 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 NOT_T1DONE 1 0 :1:3 
+]
+[u S2135 . 1 `S2113 1 . 1 0 `S2121 1 . 1 0 `S2129 1 . 1 0 `S2132 1 . 1 0 ]
+[v _T1GCONbits T1GCONbits `VES2135  1 e 1 @527 ]
+"8486
+[v _T1GATE T1GATE `VEuc  1 e 1 @528 ]
+"8652
+[v _T1CLK T1CLK `VEuc  1 e 1 @529 ]
+"10640
+[v _T2TMR T2TMR `VEuc  1 e 1 @652 ]
+"10645
+[v _TMR2 TMR2 `VEuc  1 e 1 @652 ]
+"10694
+[v _T2PR T2PR `VEuc  1 e 1 @653 ]
+"10699
+[v _PR2 PR2 `VEuc  1 e 1 @653 ]
+"10748
+[v _T2CON T2CON `VEuc  1 e 1 @654 ]
+[s S533 . 1 `uc 1 OUTPS 1 0 :4:0 
+`uc 1 CKPS 1 0 :3:4 
+`uc 1 ON 1 0 :1:7 
+]
+"10784
+[s S537 . 1 `uc 1 OUTPS0 1 0 :1:0 
+`uc 1 OUTPS1 1 0 :1:1 
+`uc 1 OUTPS2 1 0 :1:2 
+`uc 1 OUTPS3 1 0 :1:3 
+`uc 1 CKPS0 1 0 :1:4 
+`uc 1 CKPS1 1 0 :1:5 
+`uc 1 CKPS2 1 0 :1:6 
+]
+[s S789 . 1 `uc 1 T2OUTPS 1 0 :4:0 
+`uc 1 T2CKPS 1 0 :3:4 
+`uc 1 T2ON 1 0 :1:7 
+]
+[s S793 . 1 `uc 1 T2OUTPS0 1 0 :1:0 
+`uc 1 T2OUTPS1 1 0 :1:1 
+`uc 1 T2OUTPS2 1 0 :1:2 
+`uc 1 T2OUTPS3 1 0 :1:3 
+`uc 1 T2CKPS0 1 0 :1:4 
+`uc 1 T2CKPS1 1 0 :1:5 
+`uc 1 T2CKPS2 1 0 :1:6 
+`uc 1 TMR2ON 1 0 :1:7 
+]
+[u S802 . 1 `S533 1 . 1 0 `S537 1 . 1 0 `S789 1 . 1 0 `S793 1 . 1 0 ]
+[v _T2CONbits T2CONbits `VES802  1 e 1 @654 ]
+"10894
+[v _T2HLT T2HLT `VEuc  1 e 1 @655 ]
+[s S425 . 1 `uc 1 MODE 1 0 :5:0 
+`uc 1 CKSYNC 1 0 :1:5 
+`uc 1 CKPOL 1 0 :1:6 
+`uc 1 PSYNC 1 0 :1:7 
+]
+"10927
+[s S430 . 1 `uc 1 MODE0 1 0 :1:0 
+`uc 1 MODE1 1 0 :1:1 
+`uc 1 MODE2 1 0 :1:2 
+`uc 1 MODE3 1 0 :1:3 
+`uc 1 MODE4 1 0 :1:4 
+]
+[s S680 . 1 `uc 1 T2MODE 1 0 :5:0 
+`uc 1 T2CKSYNC 1 0 :1:5 
+`uc 1 T2CKPOL 1 0 :1:6 
+`uc 1 T2PSYNC 1 0 :1:7 
+]
+[s S685 . 1 `uc 1 T2MODE0 1 0 :1:0 
+`uc 1 T2MODE1 1 0 :1:1 
+`uc 1 T2MODE2 1 0 :1:2 
+`uc 1 T2MODE3 1 0 :1:3 
+`uc 1 T2MODE4 1 0 :1:4 
+]
+[u S691 . 1 `S425 1 . 1 0 `S430 1 . 1 0 `S680 1 . 1 0 `S685 1 . 1 0 ]
+[v _T2HLTbits T2HLTbits `VES691  1 e 1 @655 ]
+"11022
+[v _T2CLKCON T2CLKCON `VEuc  1 e 1 @656 ]
+"11102
+[v _T2RST T2RST `VEuc  1 e 1 @657 ]
+[s S495 . 1 `uc 1 RSEL 1 0 :5:0 
+]
+"11129
+[s S497 . 1 `uc 1 RSEL0 1 0 :1:0 
+`uc 1 RSEL1 1 0 :1:1 
+`uc 1 RSEL2 1 0 :1:2 
+`uc 1 RSEL3 1 0 :1:3 
+`uc 1 RSEL4 1 0 :1:4 
+]
+[s S747 . 1 `uc 1 T2RSEL 1 0 :5:0 
+]
+[s S749 . 1 `uc 1 T2RSEL0 1 0 :1:0 
+`uc 1 T2RSEL1 1 0 :1:1 
+`uc 1 T2RSEL2 1 0 :1:2 
+`uc 1 T2RSEL3 1 0 :1:3 
+`uc 1 T2RSEL4 1 0 :1:4 
+]
+[u S755 . 1 `S495 1 . 1 0 `S497 1 . 1 0 `S747 1 . 1 0 `S749 1 . 1 0 ]
+[v _T2RSTbits T2RSTbits `VES755  1 e 1 @657 ]
+"11194
+[v _T4TMR T4TMR `VEuc  1 e 1 @658 ]
+"11199
+[v _TMR4 TMR4 `VEuc  1 e 1 @658 ]
+"11248
+[v _T4PR T4PR `VEuc  1 e 1 @659 ]
+"11253
+[v _PR4 PR4 `VEuc  1 e 1 @659 ]
+"11302
+[v _T4CON T4CON `VEuc  1 e 1 @660 ]
+"11338
+[s S545 . 1 `uc 1 T4OUTPS 1 0 :4:0 
+`uc 1 T4CKPS 1 0 :3:4 
+`uc 1 T4ON 1 0 :1:7 
+]
+[s S549 . 1 `uc 1 T4OUTPS0 1 0 :1:0 
+`uc 1 T4OUTPS1 1 0 :1:1 
+`uc 1 T4OUTPS2 1 0 :1:2 
+`uc 1 T4OUTPS3 1 0 :1:3 
+`uc 1 T4CKPS0 1 0 :1:4 
+`uc 1 T4CKPS1 1 0 :1:5 
+`uc 1 T4CKPS2 1 0 :1:6 
+`uc 1 TMR4ON 1 0 :1:7 
+]
+[u S558 . 1 `S533 1 . 1 0 `S537 1 . 1 0 `S545 1 . 1 0 `S549 1 . 1 0 ]
+[v _T4CONbits T4CONbits `VES558  1 e 1 @660 ]
+"11448
+[v _T4HLT T4HLT `VEuc  1 e 1 @661 ]
+"11481
+[s S436 . 1 `uc 1 T4MODE 1 0 :5:0 
+`uc 1 T4CKSYNC 1 0 :1:5 
+`uc 1 T4CKPOL 1 0 :1:6 
+`uc 1 T4PSYNC 1 0 :1:7 
+]
+[s S441 . 1 `uc 1 T4MODE0 1 0 :1:0 
+`uc 1 T4MODE1 1 0 :1:1 
+`uc 1 T4MODE2 1 0 :1:2 
+`uc 1 T4MODE3 1 0 :1:3 
+`uc 1 T4MODE4 1 0 :1:4 
+]
+[u S447 . 1 `S425 1 . 1 0 `S430 1 . 1 0 `S436 1 . 1 0 `S441 1 . 1 0 ]
+[v _T4HLTbits T4HLTbits `VES447  1 e 1 @661 ]
+"11576
+[v _T4CLKCON T4CLKCON `VEuc  1 e 1 @662 ]
+"11656
+[v _T4RST T4RST `VEuc  1 e 1 @663 ]
+"11683
+[s S503 . 1 `uc 1 T4RSEL 1 0 :5:0 
+]
+[s S505 . 1 `uc 1 T4RSEL0 1 0 :1:0 
+`uc 1 T4RSEL1 1 0 :1:1 
+`uc 1 T4RSEL2 1 0 :1:2 
+`uc 1 T4RSEL3 1 0 :1:3 
+`uc 1 T4RSEL4 1 0 :1:4 
+]
+[u S511 . 1 `S495 1 . 1 0 `S497 1 . 1 0 `S503 1 . 1 0 `S505 1 . 1 0 ]
+[v _T4RSTbits T4RSTbits `VES511  1 e 1 @663 ]
+"11748
+[v _T6TMR T6TMR `VEuc  1 e 1 @664 ]
+"11753
+[v _TMR6 TMR6 `VEuc  1 e 1 @664 ]
+"11802
+[v _T6PR T6PR `VEuc  1 e 1 @665 ]
+"11807
+[v _PR6 PR6 `VEuc  1 e 1 @665 ]
+"11856
+[v _T6CON T6CON `VEuc  1 e 1 @666 ]
+"11892
+[s S1095 . 1 `uc 1 T6OUTPS 1 0 :4:0 
+`uc 1 T6CKPS 1 0 :3:4 
+`uc 1 T6ON 1 0 :1:7 
+]
+[s S1099 . 1 `uc 1 T6OUTPS0 1 0 :1:0 
+`uc 1 T6OUTPS1 1 0 :1:1 
+`uc 1 T6OUTPS2 1 0 :1:2 
+`uc 1 T6OUTPS3 1 0 :1:3 
+`uc 1 T6CKPS0 1 0 :1:4 
+`uc 1 T6CKPS1 1 0 :1:5 
+`uc 1 T6CKPS2 1 0 :1:6 
+`uc 1 TMR6ON 1 0 :1:7 
+]
+[u S1108 . 1 `S533 1 . 1 0 `S537 1 . 1 0 `S1095 1 . 1 0 `S1099 1 . 1 0 ]
+[v _T6CONbits T6CONbits `VES1108  1 e 1 @666 ]
+"12002
+[v _T6HLT T6HLT `VEuc  1 e 1 @667 ]
+"12035
+[s S986 . 1 `uc 1 T6MODE 1 0 :5:0 
+`uc 1 T6CKSYNC 1 0 :1:5 
+`uc 1 T6CKPOL 1 0 :1:6 
+`uc 1 T6PSYNC 1 0 :1:7 
+]
+[s S991 . 1 `uc 1 T6MODE0 1 0 :1:0 
+`uc 1 T6MODE1 1 0 :1:1 
+`uc 1 T6MODE2 1 0 :1:2 
+`uc 1 T6MODE3 1 0 :1:3 
+`uc 1 T6MODE4 1 0 :1:4 
+]
+[u S997 . 1 `S425 1 . 1 0 `S430 1 . 1 0 `S986 1 . 1 0 `S991 1 . 1 0 ]
+[v _T6HLTbits T6HLTbits `VES997  1 e 1 @667 ]
+"12130
+[v _T6CLKCON T6CLKCON `VEuc  1 e 1 @668 ]
+"12210
+[v _T6RST T6RST `VEuc  1 e 1 @669 ]
+"12237
+[s S1053 . 1 `uc 1 T6RSEL 1 0 :5:0 
+]
+[s S1055 . 1 `uc 1 T6RSEL0 1 0 :1:0 
+`uc 1 T6RSEL1 1 0 :1:1 
+`uc 1 T6RSEL2 1 0 :1:2 
+`uc 1 T6RSEL3 1 0 :1:3 
+`uc 1 T6RSEL4 1 0 :1:4 
+]
+[u S1061 . 1 `S495 1 . 1 0 `S497 1 . 1 0 `S1053 1 . 1 0 `S1055 1 . 1 0 ]
+[v _T6RSTbits T6RSTbits `VES1061  1 e 1 @669 ]
+[s S1825 . 1 `uc 1 INTF 1 0 :1:0 
+`uc 1 . 1 0 :3:1 
+`uc 1 IOCIF 1 0 :1:4 
+`uc 1 TMR0IF 1 0 :1:5 
+]
+"22517
+[u S1830 . 1 `S1825 1 . 1 0 ]
+[v _PIR0bits PIR0bits `VES1830  1 e 1 @1804 ]
+[s S1895 . 1 `uc 1 SSP1IF 1 0 :1:0 
+`uc 1 BCL1IF 1 0 :1:1 
+`uc 1 SSP2IF 1 0 :1:2 
+`uc 1 BCL2IF 1 0 :1:3 
+`uc 1 TX1IF 1 0 :1:4 
+`uc 1 RC1IF 1 0 :1:5 
+`uc 1 TX2IF 1 0 :1:6 
+`uc 1 RC2IF 1 0 :1:7 
+]
+"22626
+[u S1904 . 1 `S1895 1 . 1 0 ]
+[v _PIR3bits PIR3bits `VES1904  1 e 1 @1807 ]
+[s S391 . 1 `uc 1 TMR1IF 1 0 :1:0 
+`uc 1 TMR2IF 1 0 :1:1 
+`uc 1 TMR3IF 1 0 :1:2 
+`uc 1 TMR4IF 1 0 :1:3 
+`uc 1 TMR5IF 1 0 :1:4 
+`uc 1 TMR6IF 1 0 :1:5 
+]
+"22686
+[u S398 . 1 `S391 1 . 1 0 ]
+[v _PIR4bits PIR4bits `VES398  1 e 1 @1808 ]
+[s S154 . 1 `uc 1 INTE 1 0 :1:0 
+`uc 1 . 1 0 :3:1 
+`uc 1 IOCIE 1 0 :1:4 
+`uc 1 TMR0IE 1 0 :1:5 
+]
+"22930
+[u S159 . 1 `S154 1 . 1 0 ]
+[v _PIE0bits PIE0bits `VES159  1 e 1 @1814 ]
+[s S1194 . 1 `uc 1 SSP1IE 1 0 :1:0 
+`uc 1 BCL1IE 1 0 :1:1 
+`uc 1 SSP2IE 1 0 :1:2 
+`uc 1 BCL2IE 1 0 :1:3 
+`uc 1 TX1IE 1 0 :1:4 
+`uc 1 RC1IE 1 0 :1:5 
+`uc 1 TX2IE 1 0 :1:6 
+`uc 1 RC2IE 1 0 :1:7 
+]
+"23039
+[u S1203 . 1 `S1194 1 . 1 0 ]
+[v _PIE3bits PIE3bits `VES1203  1 e 1 @1817 ]
+[s S1852 . 1 `uc 1 TMR1IE 1 0 :1:0 
+`uc 1 TMR2IE 1 0 :1:1 
+`uc 1 TMR3IE 1 0 :1:2 
+`uc 1 TMR4IE 1 0 :1:3 
+`uc 1 TMR5IE 1 0 :1:4 
+`uc 1 TMR6IE 1 0 :1:5 
+]
+"23099
+[u S1859 . 1 `S1852 1 . 1 0 ]
+[v _PIE4bits PIE4bits `VES1859  1 e 1 @1818 ]
+"23339
+[v _PMD0 PMD0 `VEuc  1 e 1 @1942 ]
+"23384
+[v _PMD1 PMD1 `VEuc  1 e 1 @1943 ]
+"23440
+[v _PMD2 PMD2 `VEuc  1 e 1 @1944 ]
+"23461
+[v _PMD3 PMD3 `VEuc  1 e 1 @1945 ]
+"23506
+[v _PMD4 PMD4 `VEuc  1 e 1 @1946 ]
+"23562
+[v _PMD5 PMD5 `VEuc  1 e 1 @1947 ]
+"23595
+[v _PMD6 PMD6 `VEuc  1 e 1 @1948 ]
+"23634
+[v _PMD7 PMD7 `VEuc  1 e 1 @1949 ]
+"24314
+[v _NVMADRL NVMADRL `VEuc  1 e 1 @2074 ]
+"24376
+[v _NVMADRH NVMADRH `VEuc  1 e 1 @2075 ]
+"24439
+[v _NVMDATL NVMDATL `VEuc  1 e 1 @2076 ]
+"24501
+[v _NVMDATH NVMDATH `VEuc  1 e 1 @2077 ]
+[s S1960 . 1 `uc 1 RD 1 0 :1:0 
+`uc 1 WR 1 0 :1:1 
+`uc 1 WREN 1 0 :1:2 
+`uc 1 WRERR 1 0 :1:3 
+`uc 1 FREE 1 0 :1:4 
+`uc 1 LWLO 1 0 :1:5 
+`uc 1 NVMREGS 1 0 :1:6 
+]
+"24567
+[u S1968 . 1 `S1960 1 . 1 0 ]
+[v _NVMCON1bits NVMCON1bits `VES1968  1 e 1 @2078 ]
+"24607
+[v _NVMCON2 NVMCON2 `VEuc  1 e 1 @2079 ]
+"24692
+[v _OSCCON1 OSCCON1 `VEuc  1 e 1 @2189 ]
+"24832
+[v _OSCCON3 OSCCON3 `VEuc  1 e 1 @2191 ]
+"24872
+[v _OSCSTAT OSCSTAT `VEuc  1 e 1 @2192 ]
+"24929
+[v _OSCEN OSCEN `VEuc  1 e 1 @2193 ]
+"24980
+[v _OSCTUNE OSCTUNE `VEuc  1 e 1 @2194 ]
+"25038
+[v _OSCFRQ OSCFRQ `VEuc  1 e 1 @2195 ]
+"26408
+[v _RC2REG RC2REG `VEuc  1 e 1 @2585 ]
+"26446
+[v _TX2REG TX2REG `VEuc  1 e 1 @2586 ]
+"26491
+[v _SP2BRGL SP2BRGL `VEuc  1 e 1 @2587 ]
+"26529
+[v _SP2BRGH SP2BRGH `VEuc  1 e 1 @2588 ]
+"26567
+[v _RC2STA RC2STA `VEuc  1 e 1 @2589 ]
+[s S1292 . 1 `uc 1 RX9D 1 0 :1:0 
+`uc 1 OERR 1 0 :1:1 
+`uc 1 FERR 1 0 :1:2 
+`uc 1 ADDEN 1 0 :1:3 
+`uc 1 CREN 1 0 :1:4 
+`uc 1 SREN 1 0 :1:5 
+`uc 1 RX9 1 0 :1:6 
+`uc 1 SPEN 1 0 :1:7 
+]
+"26589
+[u S1301 . 1 `S1292 1 . 1 0 ]
+[v _RC2STAbits RC2STAbits `VES1301  1 e 1 @2589 ]
+"26689
+[v _TX2STA TX2STA `VEuc  1 e 1 @2590 ]
+[s S1270 . 1 `uc 1 TX9D 1 0 :1:0 
+`uc 1 TRMT 1 0 :1:1 
+`uc 1 BRGH 1 0 :1:2 
+`uc 1 SENDB 1 0 :1:3 
+`uc 1 SYNC 1 0 :1:4 
+`uc 1 TXEN 1 0 :1:5 
+`uc 1 TX9 1 0 :1:6 
+`uc 1 CSRC 1 0 :1:7 
+]
+"26711
+[u S1279 . 1 `S1270 1 . 1 0 ]
+[v _TX2STAbits TX2STAbits `VES1279  1 e 1 @2590 ]
+"26811
+[v _BAUD2CON BAUD2CON `VEuc  1 e 1 @2591 ]
+"26999
+[v _CLC1CON CLC1CON `VEuc  1 e 1 @7696 ]
+[s S328 . 1 `uc 1 LC1MODE 1 0 :3:0 
+`uc 1 LC1INTN 1 0 :1:3 
+`uc 1 LC1INTP 1 0 :1:4 
+`uc 1 LC1OUT 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+`uc 1 LC1EN 1 0 :1:7 
+]
+"27032
+[s S335 . 1 `uc 1 LC1MODE0 1 0 :1:0 
+`uc 1 LC1MODE1 1 0 :1:1 
+`uc 1 LC1MODE2 1 0 :1:2 
+]
+[s S339 . 1 `uc 1 MODE 1 0 :3:0 
+`uc 1 INTN 1 0 :1:3 
+`uc 1 INTP 1 0 :1:4 
+`uc 1 OUT 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+`uc 1 EN 1 0 :1:7 
+]
+[s S346 . 1 `uc 1 MODE0 1 0 :1:0 
+`uc 1 MODE1 1 0 :1:1 
+`uc 1 MODE2 1 0 :1:2 
+]
+[u S350 . 1 `S328 1 . 1 0 `S335 1 . 1 0 `S339 1 . 1 0 `S346 1 . 1 0 ]
+[v _CLC1CONbits CLC1CONbits `VES350  1 e 1 @7696 ]
+"27117
+[v _CLC1POL CLC1POL `VEuc  1 e 1 @7697 ]
+"27195
+[v _CLC1SEL0 CLC1SEL0 `VEuc  1 e 1 @7698 ]
+"27299
+[v _CLC1SEL1 CLC1SEL1 `VEuc  1 e 1 @7699 ]
+"27403
+[v _CLC1SEL2 CLC1SEL2 `VEuc  1 e 1 @7700 ]
+"27507
+[v _CLC1SEL3 CLC1SEL3 `VEuc  1 e 1 @7701 ]
+"27611
+[v _CLC1GLS0 CLC1GLS0 `VEuc  1 e 1 @7702 ]
+"27723
+[v _CLC1GLS1 CLC1GLS1 `VEuc  1 e 1 @7703 ]
+"27835
+[v _CLC1GLS2 CLC1GLS2 `VEuc  1 e 1 @7704 ]
+"27947
+[v _CLC1GLS3 CLC1GLS3 `VEuc  1 e 1 @7705 ]
+"28059
+[v _CLC2CON CLC2CON `VEuc  1 e 1 @7706 ]
+[s S885 . 1 `uc 1 LC2MODE 1 0 :3:0 
+`uc 1 LC2INTN 1 0 :1:3 
+`uc 1 LC2INTP 1 0 :1:4 
+`uc 1 LC2OUT 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+`uc 1 LC2EN 1 0 :1:7 
+]
+"28092
+[s S892 . 1 `uc 1 LC2MODE0 1 0 :1:0 
+`uc 1 LC2MODE1 1 0 :1:1 
+`uc 1 LC2MODE2 1 0 :1:2 
+]
+[u S907 . 1 `S885 1 . 1 0 `S892 1 . 1 0 `S339 1 . 1 0 `S346 1 . 1 0 ]
+[v _CLC2CONbits CLC2CONbits `VES907  1 e 1 @7706 ]
+"28177
+[v _CLC2POL CLC2POL `VEuc  1 e 1 @7707 ]
+"28255
+[v _CLC2SEL0 CLC2SEL0 `VEuc  1 e 1 @7708 ]
+"28359
+[v _CLC2SEL1 CLC2SEL1 `VEuc  1 e 1 @7709 ]
+"28463
+[v _CLC2SEL2 CLC2SEL2 `VEuc  1 e 1 @7710 ]
+"28567
+[v _CLC2SEL3 CLC2SEL3 `VEuc  1 e 1 @7711 ]
+"28671
+[v _CLC2GLS0 CLC2GLS0 `VEuc  1 e 1 @7712 ]
+"28783
+[v _CLC2GLS1 CLC2GLS1 `VEuc  1 e 1 @7713 ]
+"28895
+[v _CLC2GLS2 CLC2GLS2 `VEuc  1 e 1 @7714 ]
+"29007
+[v _CLC2GLS3 CLC2GLS3 `VEuc  1 e 1 @7715 ]
+"32611
+[v _CLCIN0PPS CLCIN0PPS `VEuc  1 e 1 @7867 ]
+"33287
+[v _RX2DTPPS RX2DTPPS `VEuc  1 e 1 @7885 ]
+"33681
+[v _RA5PPS RA5PPS `VEuc  1 e 1 @7957 ]
+"34087
+[v _RB4PPS RB4PPS `VEuc  1 e 1 @7964 ]
+"34435
+[v _RC2PPS RC2PPS `VEuc  1 e 1 @7970 ]
+"34493
+[v _RC3PPS RC3PPS `VEuc  1 e 1 @7971 ]
+"34783
+[v _ANSELA ANSELA `VEuc  1 e 1 @7992 ]
+"34845
+[v _WPUA WPUA `VEuc  1 e 1 @7993 ]
+"34907
+[v _ODCONA ODCONA `VEuc  1 e 1 @7994 ]
+"34969
+[v _SLRCONA SLRCONA `VEuc  1 e 1 @7995 ]
+"35031
+[v _INLVLA INLVLA `VEuc  1 e 1 @7996 ]
+"35279
+[v _ANSELB ANSELB `VEuc  1 e 1 @8003 ]
+"35341
+[v _WPUB WPUB `VEuc  1 e 1 @8004 ]
+"35403
+[v _ODCONB ODCONB `VEuc  1 e 1 @8005 ]
+"35465
+[v _SLRCONB SLRCONB `VEuc  1 e 1 @8006 ]
+"35527
+[v _INLVLB INLVLB `VEuc  1 e 1 @8007 ]
+"35775
+[v _ANSELC ANSELC `VEuc  1 e 1 @8014 ]
+"35837
+[v _WPUC WPUC `VEuc  1 e 1 @8015 ]
+"35899
+[v _ODCONC ODCONC `VEuc  1 e 1 @8016 ]
+"35961
+[v _SLRCONC SLRCONC `VEuc  1 e 1 @8017 ]
+"36023
+[v _INLVLC INLVLC `VEuc  1 e 1 @8018 ]
+[s S93 . 1 `uc 1 IOCCP0 1 0 :1:0 
+`uc 1 IOCCP1 1 0 :1:1 
+`uc 1 IOCCP2 1 0 :1:2 
+`uc 1 IOCCP3 1 0 :1:3 
+`uc 1 IOCCP4 1 0 :1:4 
+`uc 1 IOCCP5 1 0 :1:5 
+`uc 1 IOCCP6 1 0 :1:6 
+`uc 1 IOCCP7 1 0 :1:7 
+]
+"36102
+[u S102 . 1 `S93 1 . 1 0 ]
+"36102
+"36102
+[v _IOCCPbits IOCCPbits `VES102  1 e 1 @8019 ]
+[s S72 . 1 `uc 1 IOCCN0 1 0 :1:0 
+`uc 1 IOCCN1 1 0 :1:1 
+`uc 1 IOCCN2 1 0 :1:2 
+`uc 1 IOCCN3 1 0 :1:3 
+`uc 1 IOCCN4 1 0 :1:4 
+`uc 1 IOCCN5 1 0 :1:5 
+`uc 1 IOCCN6 1 0 :1:6 
+`uc 1 IOCCN7 1 0 :1:7 
+]
+"36164
+[u S81 . 1 `S72 1 . 1 0 ]
+"36164
+"36164
+[v _IOCCNbits IOCCNbits `VES81  1 e 1 @8020 ]
+[s S51 . 1 `uc 1 IOCCF0 1 0 :1:0 
+`uc 1 IOCCF1 1 0 :1:1 
+`uc 1 IOCCF2 1 0 :1:2 
+`uc 1 IOCCF3 1 0 :1:3 
+`uc 1 IOCCF4 1 0 :1:4 
+`uc 1 IOCCF5 1 0 :1:5 
+`uc 1 IOCCF6 1 0 :1:6 
+`uc 1 IOCCF7 1 0 :1:7 
+]
+"36226
+[u S60 . 1 `S51 1 . 1 0 ]
+"36226
+"36226
+[v _IOCCFbits IOCCFbits `VES60  1 e 1 @8021 ]
+"36271
+[v _WPUE WPUE `VEuc  1 e 1 @8037 ]
+"36292
+[v _ODCONE ODCONE `VEuc  1 e 1 @8038 ]
+"10 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _manufacturerData manufacturerData `DC[16]uc  1 e 16 0 ]
+"14
+[v _posX posX `VEs  1 e 2 0 ]
+[v _posY posY `VEs  1 e 2 0 ]
+"15
+[v _targetX targetX `VEs  1 e 2 0 ]
+[v _targetY targetY `VEs  1 e 2 0 ]
+"16
+[v _posX_reached posX_reached `VEs  1 e 2 0 ]
+[v _posY_reached posY_reached `VEs  1 e 2 0 ]
+"18
+[v _matrix_enabled matrix_enabled `uc  1 e 1 0 ]
+"23
+[v _buttonToPress_buffer buttonToPress_buffer `[5]uc  1 e 5 0 ]
+"24
+[v _btopress_idx btopress_idx `uc  1 e 1 0 ]
+[s S2204 . 9 `[6]uc 1 label 6 0 `c 1 xPos 1 6 `c 1 yPos 1 7 `c 1 ID 1 8 ]
+"25
+[v _buttonList buttonList `[25]S2204  1 e 225 @9999 ]
+"26
+[v _ID_grid ID_grid `[5][5]c  1 e 25 0 ]
+"27
+[v _buttonList_len buttonList_len `i  1 e 2 0 ]
+"29
+[v _toPress toPress `a  1 e 1 0 ]
+"34
+[v _prev_connection_status prev_connection_status `uc  1 e 1 0 ]
+"62 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/eusart2.c
+[v _eusart2TxHead eusart2TxHead `VEuc  1 e 1 0 ]
+"63
+[v _eusart2TxTail eusart2TxTail `VEuc  1 e 1 0 ]
+"64
+[v _eusart2TxBuffer eusart2TxBuffer `VE[32]uc  1 e 32 0 ]
+"65
+[v _eusart2TxBufferRemaining eusart2TxBufferRemaining `VEuc  1 e 1 0 ]
+"67
+[v _eusart2RxHead eusart2RxHead `VEuc  1 e 1 0 ]
+"68
+[v _eusart2RxTail eusart2RxTail `VEuc  1 e 1 0 ]
+"69
+[v _eusart2RxBuffer eusart2RxBuffer `VE[32]uc  1 e 32 0 ]
+[s S1181 . 1 `uc 1 perr 1 0 :1:0 
+`uc 1 ferr 1 0 :1:1 
+`uc 1 oerr 1 0 :1:2 
+`uc 1 reserved 1 0 :5:3 
+]
+"70
+[u S1186 . 1 `S1181 1 . 1 0 `uc 1 status 1 0 ]
+[v _eusart2RxStatusBuffer eusart2RxStatusBuffer `VE[32]S1186  1 e 32 0 ]
+"71
+[v _eusart2RxCount eusart2RxCount `VEuc  1 e 1 0 ]
+"72
+[v _eusart2RxLastError eusart2RxLastError `VES1186  1 e 1 0 ]
+"77
+[v _EUSART2_TxDefaultInterruptHandler EUSART2_TxDefaultInterruptHandler `*.37(v  1 e 2 0 ]
+"78
+[v _EUSART2_RxDefaultInterruptHandler EUSART2_RxDefaultInterruptHandler `*.37(v  1 e 2 0 ]
+"80
+[v _EUSART2_FramingErrorHandler EUSART2_FramingErrorHandler `*.37(v  1 e 2 0 ]
+"81
+[v _EUSART2_OverrunErrorHandler EUSART2_OverrunErrorHandler `*.37(v  1 e 2 0 ]
+"82
+[v _EUSART2_ErrorHandler EUSART2_ErrorHandler `*.37(v  1 e 2 0 ]
+"54 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/pin_manager.c
+[v _IOCCF4_InterruptHandler IOCCF4_InterruptHandler `*.37(v  1 e 2 0 ]
+"55
+[v _IOCCF5_InterruptHandler IOCCF5_InterruptHandler `*.37(v  1 e 2 0 ]
+"56
+[v _IOCCF6_InterruptHandler IOCCF6_InterruptHandler `*.37(v  1 e 2 0 ]
+"57
+[v _IOCCF7_InterruptHandler IOCCF7_InterruptHandler `*.37(v  1 e 2 0 ]
+"57 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr1.c
+[v _timer1ReloadVal timer1ReloadVal `VEus  1 e 2 0 ]
+"58
+[v _TMR1_InterruptHandler TMR1_InterruptHandler `*.37(v  1 e 2 0 ]
+"24 /Users/francesco/MPLABXProjects/Free_Touch.X/RN4871.c
+[v _err_flag err_flag `VEuc  1 e 1 0 ]
+"25
+[v _aok_flag aok_flag `VEuc  1 e 1 0 ]
+"26
+[v _cmd_flag cmd_flag `VEuc  1 e 1 0 ]
+"27
+[v _reboot_flag reboot_flag `VEuc  1 e 1 0 ]
+"28
+[v _stropen_flag stropen_flag `VEuc  1 e 1 0 ]
+"29
+[v _data_available data_available `VEuc  1 e 1 0 ]
+"30
+[v _connection_status connection_status `VEuc  1 e 1 0 ]
+"34
+[v _enter_command_mode_sequence enter_command_mode_sequence `DC[3]uc  1 e 3 0 ]
+"35
+[v _exit_command_mode_sequence exit_command_mode_sequence `DC[5]uc  1 e 5 0 ]
+"36
+[v _reboot_command reboot_command `DC[4]uc  1 e 4 0 ]
+"37
+[v _setManufacturerDataCommand setManufacturerDataCommand `DC[6]uc  1 e 6 0 ]
+"41
+[v __waiting_stropen _waiting_stropen `VEuc  1 e 1 0 ]
+"42
+[v _special_command_flag special_command_flag `VEuc  1 e 1 0 ]
+"45
+[v _cmdMessage cmdMessage `DC[4]uc  1 e 4 0 ]
+"46
+[v _errorMessage errorMessage `DC[4]uc  1 e 4 0 ]
+"47
+[v _aokMessage aokMessage `DC[4]uc  1 e 4 0 ]
+"51
+[v _aok_idx aok_idx `VEuc  1 e 1 0 ]
+"52
+[v _cmd_idx cmd_idx `VEuc  1 e 1 0 ]
+"53
+[v _err_idx err_idx `VEuc  1 e 1 0 ]
+"57
+[v _rebootMessage rebootMessage `DC[6]uc  1 e 6 0 ]
+"59
+[v _reboot_idx reboot_idx `VEuc  1 e 1 0 ]
+"61
+[v _connectMessage connectMessage `DC[7]uc  1 e 7 0 ]
+"63
+[v _conn_idx conn_idx `VEuc  1 e 1 0 ]
+"65
+[v _disconnectMessage disconnectMessage `DC[10]uc  1 e 10 0 ]
+"67
+[v _disconn_idx disconn_idx `VEuc  1 e 1 0 ]
+"71
+[v _chw_idx chw_idx `VEuc  1 e 1 0 ]
+"75
+[v _stropen_idx stropen_idx `VEuc  1 e 1 0 ]
+"79
+[v _frameStartSequence frameStartSequence `DC[3]uc  1 e 3 0 ]
+"80
+[v _fstart_idx fstart_idx `VEuc  1 e 1 0 ]
+"145
+[v _prev_data prev_data `VEuc  1 e 1 0 ]
+"147
+[v _valid_data valid_data `VEuc  1 e 1 0 ]
+"148
+[v _data_len data_len `VEus  1 e 2 0 ]
+"149
+[v _data_read_started data_read_started `VEuc  1 e 1 0 ]
+"150
+[v _payload payload `VE[256]uc  1 e 256 @9743 ]
+"151
+[v _payload_idx payload_idx `VEuc  1 e 1 0 ]
+"36 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"259
+[v main@val_2517 val `us  1 a 2 2 ]
+"227
+[v main@i_2509 i `c  1 a 1 20 ]
+"179
+[v main@i_2506 i `uc  1 a 1 10 ]
+"172
+[v main@i_2504 i `uc  1 a 1 9 ]
+"143
+[v main@i_2500 i `uc  1 a 1 8 ]
+"271
+[v main@buttonID_2518 buttonID `i  1 a 2 17 ]
+"244
+[v main@val val `us  1 a 2 0 ]
+"194
+[v main@buttonID buttonID `i  1 a 2 5 ]
+"159
+[v main@addr_2502 addr `us  1 a 2 15 ]
+"160
+[v main@len_2503 len `uc  1 a 1 23 ]
+"178
+[v main@sent sent `uc  1 a 1 4 ]
+"139
+[v main@addr_2498 addr `us  1 a 2 13 ]
+"236
+[v main@i_2512 i `uc  1 a 1 24 ]
+"234
+[v main@col col `c  1 a 1 22 ]
+[v main@row row `c  1 a 1 21 ]
+"64
+[v main@i i `uc  1 a 1 7 ]
+"60
+[v main@addr addr `us  1 a 2 11 ]
+"61
+[v main@len len `uc  1 a 1 19 ]
+"291
+} 0
+"98 /Users/francesco/MPLABXProjects/Free_Touch.X/RN4871.c
+[v _setRandomAddress setRandomAddress `(v  1 e 1 0 ]
+{
+"104
+} 0
+"107
+[v _setAdvertisementManufacturerData setAdvertisementManufacturerData `(v  1 e 1 0 ]
+{
+"113
+[v setAdvertisementManufacturerData@i_2612 i `uc  1 a 1 5 ]
+"110
+[v setAdvertisementManufacturerData@i i `uc  1 a 1 6 ]
+"107
+[v setAdvertisementManufacturerData@data data `*.25uc  1 p 2 0 ]
+[v setAdvertisementManufacturerData@len len `uc  1 p 1 2 ]
+"117
+} 0
+"417 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _setAddress setAddress `T(v  1 e 1 0 ]
+{
+[v setAddress@addr addr `uc  1 a 1 wreg ]
+[v setAddress@addr addr `uc  1 a 1 wreg ]
+"419
+[v setAddress@addr addr `uc  1 a 1 5 ]
+"422
+} 0
+"19 /Users/francesco/MPLABXProjects/Free_Touch.X/servo.c
+[v _servoRelease servoRelease `T(v  1 e 1 0 ]
+{
+"22
+} 0
+"14
+[v _servoPress servoPress `T(v  1 e 1 0 ]
+{
+"17
+} 0
+"152 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr4.c
+[v _TMR4_LoadPeriodRegister TMR4_LoadPeriodRegister `(v  1 e 1 0 ]
+{
+[v TMR4_LoadPeriodRegister@periodVal periodVal `uc  1 a 1 wreg ]
+[v TMR4_LoadPeriodRegister@periodVal periodVal `uc  1 a 1 wreg ]
+"154
+[v TMR4_LoadPeriodRegister@periodVal periodVal `uc  1 a 1 5 ]
+"155
+} 0
+"147
+[v _TMR4_Period8BitSet TMR4_Period8BitSet `(v  1 e 1 0 ]
+{
+[v TMR4_Period8BitSet@periodVal periodVal `uc  1 a 1 wreg ]
+[v TMR4_Period8BitSet@periodVal periodVal `uc  1 a 1 wreg ]
+"149
+[v TMR4_Period8BitSet@periodVal periodVal `uc  1 a 1 4 ]
+"150
+} 0
+"85 /Users/francesco/MPLABXProjects/Free_Touch.X/RN4871.c
+[v _sendACK sendACK `(v  1 e 1 0 ]
+{
+"93
+[v sendACK@i i `uc  1 a 1 0 ]
+"95
+} 0
+"317 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _pressButton pressButton `(v  1 e 1 0 ]
+{
+"319
+[v pressButton@button_idx button_idx `i  1 a 2 27 ]
+"322
+[v pressButton@targetPosY targetPosY `i  1 a 2 25 ]
+"321
+[v pressButton@targetPosX targetPosX `i  1 a 2 23 ]
+"317
+[v pressButton@buttonID buttonID `i  1 p 2 16 ]
+"328
+} 0
+"55 /Users/francesco/MPLABXProjects/Free_Touch.X/motor_handler.c
+[v _setTargetY setTargetY `T(v  1 e 1 0 ]
+{
+[v setTargetY@_targetY _targetY `s  1 p 2 4 ]
+"76
+} 0
+"20
+[v _setTargetX setTargetX `T(v  1 e 1 0 ]
+{
+[v setTargetX@_targetX _targetX `s  1 p 2 4 ]
+"41
+} 0
+"99 /Users/francesco/MPLABXProjects/Free_Touch.X/button.c
+[v _getIdxForButtonWithID getIdxForButtonWithID `(i  1 e 2 0 ]
+{
+"101
+[v getIdxForButtonWithID@i i `i  1 a 2 14 ]
+[s S2204 . 9 `[6]uc 1 label 6 0 `c 1 xPos 1 6 `c 1 yPos 1 7 `c 1 ID 1 8 ]
+"99
+[v getIdxForButtonWithID@button_list button_list `*.39S2204  1 p 2 4 ]
+[v getIdxForButtonWithID@ID ID `i  1 p 2 6 ]
+[v getIdxForButtonWithID@len len `i  1 p 2 8 ]
+"107
+} 0
+"295 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _playTone playTone `(v  1 e 1 0 ]
+{
+"298
+[v playTone@timerValue timerValue `d  1 a 4 50 ]
+"295
+[v playTone@duration_ms duration_ms `i  1 p 2 48 ]
+"303
+} 0
+"10 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/xxtofl.c
+[v ___xxtofl __xxtofl `(d  1 e 4 0 ]
+{
+[v ___xxtofl@sign sign `uc  1 a 1 wreg ]
+"13
+[v ___xxtofl@arg arg `ul  1 a 4 10 ]
+"12
+[v ___xxtofl@exp exp `uc  1 a 1 9 ]
+"10
+[v ___xxtofl@sign sign `uc  1 a 1 wreg ]
+[v ___xxtofl@val val `l  1 p 4 0 ]
+"15
+[v ___xxtofl@sign sign `uc  1 a 1 8 ]
+"44
+} 0
+"43 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/fltol.c
+[v ___fltol __fltol `(l  1 e 4 0 ]
+{
+"45
+[v ___fltol@exp1 exp1 `uc  1 a 1 5 ]
+[v ___fltol@sign1 sign1 `uc  1 a 1 4 ]
+"43
+[v ___fltol@f1 f1 `d  1 p 4 0 ]
+"70
+} 0
+"242 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/sprcadd.c
+[v ___flsub __flsub `(d  1 e 4 0 ]
+{
+[v ___flsub@a a `d  1 p 4 40 ]
+[v ___flsub@b b `d  1 p 4 44 ]
+"250
+} 0
+"10
+[v ___fladd __fladd `(d  1 e 4 0 ]
+{
+"17
+[v ___fladd@grs grs `uc  1 a 1 19 ]
+"15
+[v ___fladd@bexp bexp `uc  1 a 1 18 ]
+"16
+[v ___fladd@aexp aexp `uc  1 a 1 17 ]
+"13
+[v ___fladd@signs signs `uc  1 a 1 16 ]
+"10
+[v ___fladd@b b `d  1 p 4 0 ]
+[v ___fladd@a a `d  1 p 4 4 ]
+"237
+} 0
+"8 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+{
+[s S3035 . 4 `uc 1 a 1 0 `uc 1 b 1 1 `uc 1 c 1 2 `uc 1 d 1 3 ]
+"13
+[s S3040 . 4 `i 1 wordA 2 0 `i 1 wordB 2 2 ]
+[u S3043 . 4 `l 1 i 4 0 `d 1 f 4 0 `S3035 1 fAsBytes 4 0 `S3040 1 fAsWords 4 0 ]
+[v ___flmul@prod prod `S3043  1 a 4 34 ]
+"12
+[v ___flmul@grs grs `ul  1 a 4 29 ]
+[s S3112 . 2 `uc 1 a 1 0 `uc 1 b 1 1 ]
+"14
+[u S3115 . 2 `i 1 i 2 0 `ui 1 n 2 0 `S3112 1 nAsBytes 2 0 ]
+[v ___flmul@temp temp `S3115  1 a 2 38 ]
+"10
+[v ___flmul@bexp bexp `uc  1 a 1 33 ]
+"11
+[v ___flmul@aexp aexp `uc  1 a 1 28 ]
+"9
+[v ___flmul@sign sign `uc  1 a 1 27 ]
+"8
+[v ___flmul@b b `d  1 p 4 14 ]
+[v ___flmul@a a `d  1 p 4 18 ]
+"205
+} 0
+"4 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+{
+[v __Umul8_16@multiplier multiplier `uc  1 a 1 wreg ]
+"6
+[v __Umul8_16@word_mpld word_mpld `ui  1 a 2 4 ]
+"5
+[v __Umul8_16@product product `ui  1 a 2 2 ]
+"4
+[v __Umul8_16@multiplier multiplier `uc  1 a 1 wreg ]
+[v __Umul8_16@multiplicand multiplicand `uc  1 p 1 4 ]
+[v __Umul8_16@multiplier multiplier `uc  1 a 1 6 ]
+"60
+} 0
+"127 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr1.c
+[v _TMR1_WriteTimer TMR1_WriteTimer `(v  1 e 1 0 ]
+{
+[v TMR1_WriteTimer@timerVal timerVal `us  1 p 2 9 ]
+"147
+} 0
+"99
+[v _TMR1_StartTimer TMR1_StartTimer `(v  1 e 1 0 ]
+{
+"103
+} 0
+"46 /Users/francesco/MPLABXProjects/Free_Touch.X/motor_handler.c
+[v _homeMotorY homeMotorY `T(v  1 e 1 0 ]
+{
+"52
+} 0
+"12
+[v _homeMotorX homeMotorX `T(v  1 e 1 0 ]
+{
+"18
+} 0
+"137 /Users/francesco/MPLABXProjects/Free_Touch.X/RN4871.c
+[v _exitCommandMode exitCommandMode `(v  1 e 1 0 ]
+{
+"139
+[v exitCommandMode@i i `uc  1 a 1 0 ]
+"141
+} 0
+"130
+[v _enterCommandMode enterCommandMode `(v  1 e 1 0 ]
+{
+"133
+[v enterCommandMode@i i `uc  1 a 1 0 ]
+"135
+} 0
+"173 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/eusart2.c
+[v _EUSART2_Write EUSART2_Write `(v  1 e 1 0 ]
+{
+[v EUSART2_Write@txData txData `uc  1 a 1 wreg ]
+[v EUSART2_Write@txData txData `uc  1 a 1 wreg ]
+[v EUSART2_Write@txData txData `uc  1 a 1 5 ]
+"194
+} 0
+"111 /Users/francesco/MPLABXProjects/Free_Touch.X/button.c
+[v _createButtonList createButtonList `(i  1 e 2 0 ]
+{
+"120
+[v createButtonList@j j `i  1 a 2 31 ]
+"124
+[v createButtonList@yPos yPos `i  1 a 2 29 ]
+"123
+[v createButtonList@xPos xPos `i  1 a 2 27 ]
+"125
+[v createButtonList@ID ID `i  1 a 2 19 ]
+"117
+[v createButtonList@i i `i  1 a 2 35 ]
+"116
+[v createButtonList@offset offset `i  1 a 2 33 ]
+"114
+[v createButtonList@N_buttons N_buttons `i  1 a 2 25 ]
+"111
+[v createButtonList@data data `*.39DCuc  1 p 2 8 ]
+[v createButtonList@len len `i  1 p 2 10 ]
+[s S2204 . 9 `[6]uc 1 label 6 0 `c 1 xPos 1 6 `c 1 yPos 1 7 `c 1 ID 1 8 ]
+[v createButtonList@button_list button_list `*.39S2204  1 p 2 12 ]
+"134
+} 0
+"5 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+{
+"10
+[v ___awdiv@quotient quotient `i  1 a 2 6 ]
+"11
+[v ___awdiv@sign sign `uc  1 a 1 5 ]
+[v ___awdiv@counter counter `uc  1 a 1 4 ]
+"5
+[v ___awdiv@divisor divisor `i  1 p 2 0 ]
+[v ___awdiv@dividend dividend `i  1 p 2 2 ]
+"41
+} 0
+"11 /Users/francesco/MPLABXProjects/Free_Touch.X/button.c
+[v _arrangeButtonsInMatrix arrangeButtonsInMatrix `(v  1 e 1 0 ]
+{
+"63
+[v arrangeButtonsInMatrix@pos_2666 pos `i  1 a 2 59 ]
+"42
+[v arrangeButtonsInMatrix@pos pos `i  1 a 2 57 ]
+"53
+[v arrangeButtonsInMatrix@j_2665 j `i  1 a 2 44 ]
+"32
+[v arrangeButtonsInMatrix@j j `i  1 a 2 42 ]
+"52
+[v arrangeButtonsInMatrix@existingColumn existingColumn `a  1 a 1 41 ]
+"31
+[v arrangeButtonsInMatrix@existingRow existingRow `a  1 a 1 40 ]
+"14
+[v arrangeButtonsInMatrix@x x `uc  1 a 1 47 ]
+"83
+[v arrangeButtonsInMatrix@r r `uc  1 a 1 49 ]
+[v arrangeButtonsInMatrix@c c `uc  1 a 1 48 ]
+"29
+[v arrangeButtonsInMatrix@i i `i  1 a 2 61 ]
+"81
+[v arrangeButtonsInMatrix@i_2667 i `uc  1 a 1 50 ]
+"13
+[v arrangeButtonsInMatrix@y y `uc  1 a 1 46 ]
+"23
+[v arrangeButtonsInMatrix@columnPosition columnPosition `[10]i  1 a 20 20 ]
+"22
+[v arrangeButtonsInMatrix@rowPosition rowPosition `[10]i  1 a 20 0 ]
+"20
+[v arrangeButtonsInMatrix@rows rows `i  1 a 2 55 ]
+[v arrangeButtonsInMatrix@columns columns `i  1 a 2 53 ]
+"25
+[v arrangeButtonsInMatrix@delta_max delta_max `i  1 a 2 51 ]
+[s S2204 . 9 `[6]uc 1 label 6 0 `c 1 xPos 1 6 `c 1 yPos 1 7 `c 1 ID 1 8 ]
+"11
+[v arrangeButtonsInMatrix@button_list button_list `*.39S2204  1 p 2 8 ]
+[v arrangeButtonsInMatrix@N N `i  1 p 2 10 ]
+[v arrangeButtonsInMatrix@id_grid id_grid `*.5[5]uc  1 p 1 12 ]
+"93
+} 0
+"1 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/abs.c
+[v _abs abs `(i  1 e 2 0 ]
+{
+[v abs@a a `i  1 p 2 4 ]
+"4
+} 0
+"15 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+{
+"17
+[v ___wmul@product product `ui  1 a 2 4 ]
+"15
+[v ___wmul@multiplier multiplier `ui  1 p 2 0 ]
+[v ___wmul@multiplicand multiplicand `ui  1 p 2 2 ]
+"53
+} 0
+"4 /Applications/microchip/xc8/v2.32/pic/sources/c99/common/Umul8.c
+[v ___bmul __bmul `(uc  1 e 1 0 ]
+{
+[v ___bmul@multiplier multiplier `uc  1 a 1 wreg ]
+"6
+[v ___bmul@product product `uc  1 a 1 0 ]
+"4
+[v ___bmul@multiplier multiplier `uc  1 a 1 wreg ]
+[v ___bmul@multiplicand multiplicand `uc  1 p 1 4 ]
+"6
+[v ___bmul@multiplier multiplier `uc  1 a 1 1 ]
+"51
+} 0
+"50 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+{
+"63
+} 0
+"62 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr6.c
+[v _TMR6_Initialize TMR6_Initialize `(v  1 e 1 0 ]
+{
+"86
+} 0
+"62 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr4.c
+[v _TMR4_Initialize TMR4_Initialize `(v  1 e 1 0 ]
+{
+"86
+} 0
+"62 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr2.c
+[v _TMR2_Initialize TMR2_Initialize `(v  1 e 1 0 ]
+{
+"86
+} 0
+"64 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr1.c
+[v _TMR1_Initialize TMR1_Initialize `(v  1 e 1 0 ]
+{
+"97
+} 0
+"178
+[v _TMR1_SetInterruptHandler TMR1_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v TMR1_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 4 ]
+"180
+} 0
+"81 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/mcc.c
+[v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
+{
+"99
+} 0
+"60 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+{
+"162
+} 0
+"296
+[v _IOCCF7_SetInterruptHandler IOCCF7_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v IOCCF7_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 4 ]
+"298
+} 0
+"266
+[v _IOCCF6_SetInterruptHandler IOCCF6_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v IOCCF6_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 4 ]
+"268
+} 0
+"236
+[v _IOCCF5_SetInterruptHandler IOCCF5_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v IOCCF5_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 4 ]
+"238
+} 0
+"206
+[v _IOCCF4_SetInterruptHandler IOCCF4_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v IOCCF4_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 4 ]
+"208
+} 0
+"65 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/mcc.c
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+{
+"79
+} 0
+"88 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/eusart2.c
+[v _EUSART2_Initialize EUSART2_Initialize `(v  1 e 1 0 ]
+{
+"130
+} 0
+"276
+[v _EUSART2_SetTxInterruptHandler EUSART2_SetTxInterruptHandler `(v  1 e 1 0 ]
+{
+[v EUSART2_SetTxInterruptHandler@interruptHandler interruptHandler `*.37(v  1 p 2 4 ]
+"278
+} 0
+"280
+[v _EUSART2_SetRxInterruptHandler EUSART2_SetRxInterruptHandler `(v  1 e 1 0 ]
+{
+[v EUSART2_SetRxInterruptHandler@interruptHandler interruptHandler `*.37(v  1 p 2 4 ]
+"282
+} 0
+"268
+[v _EUSART2_SetOverrunErrorHandler EUSART2_SetOverrunErrorHandler `(v  1 e 1 0 ]
+{
+[v EUSART2_SetOverrunErrorHandler@interruptHandler interruptHandler `*.37(v  1 p 2 4 ]
+"270
+} 0
+"264
+[v _EUSART2_SetFramingErrorHandler EUSART2_SetFramingErrorHandler `(v  1 e 1 0 ]
+{
+[v EUSART2_SetFramingErrorHandler@interruptHandler interruptHandler `*.37(v  1 p 2 4 ]
+"266
+} 0
+"272
+[v _EUSART2_SetErrorHandler EUSART2_SetErrorHandler `(v  1 e 1 0 ]
+{
+[v EUSART2_SetErrorHandler@interruptHandler interruptHandler `*.37(v  1 p 2 4 ]
+"274
+} 0
+"58 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/clc2.c
+[v _CLC2_Initialize CLC2_Initialize `(v  1 e 1 0 ]
+{
+"83
+} 0
+"58 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/clc1.c
+[v _CLC1_Initialize CLC1_Initialize `(v  1 e 1 0 ]
+{
+"83
+} 0
+"63 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/adcc.c
+[v _ADCC_Initialize ADCC_Initialize `(v  1 e 1 0 ]
+{
+"112
+} 0
+"180 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/memory.c
+[v _DATAEE_WriteByte DATAEE_WriteByte `(v  1 e 1 0 ]
+{
+"182
+[v DATAEE_WriteByte@GIEBitValue GIEBitValue `uc  1 a 1 0 ]
+"180
+[v DATAEE_WriteByte@bAdd bAdd `us  1 p 2 4 ]
+[v DATAEE_WriteByte@bData bData `uc  1 p 1 6 ]
+"200
+} 0
+"202
+[v _DATAEE_ReadByte DATAEE_ReadByte `(uc  1 e 1 0 ]
+{
+[v DATAEE_ReadByte@bAdd bAdd `us  1 p 2 4 ]
+"212
+} 0
+"114 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/adcc.c
+[v _ADCC_StartConversion ADCC_StartConversion `(v  1 e 1 0 ]
+{
+[v ADCC_StartConversion@channel channel `E12200  1 a 1 wreg ]
+[v ADCC_StartConversion@channel channel `E12200  1 a 1 wreg ]
+"117
+[v ADCC_StartConversion@channel channel `E12200  1 a 1 4 ]
+"124
+} 0
+"126
+[v _ADCC_IsConversionDone ADCC_IsConversionDone `(a  1 e 1 0 ]
+{
+"130
+} 0
+"132
+[v _ADCC_GetConversionResult ADCC_GetConversionResult `(us  1 e 2 0 ]
+{
+"136
+} 0
+"52 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `II(v  1 e 1 0 ]
+{
+"82
+} 0
+"216 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/eusart2.c
+[v _EUSART2_Receive_ISR EUSART2_Receive_ISR `(v  1 e 1 0 ]
+{
+"238
+} 0
+"166 /Users/francesco/MPLABXProjects/Free_Touch.X/RN4871.c
+[v _USART_Handler USART_Handler `(v  1 e 1 0 ]
+{
+"168
+[v USART_Handler@data data `uc  1 a 1 3 ]
+"302
+} 0
+"164 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr1.c
+[v _TMR1_ISR TMR1_ISR `(v  1 e 1 0 ]
+{
+"175
+} 0
+"127
+[v i1_TMR1_WriteTimer TMR1_WriteTimer `(v  1 e 1 0 ]
+{
+[v i1TMR1_WriteTimer@timerVal timerVal `us  1 p 2 0 ]
+"147
+} 0
+"182
+[v _TMR1_DefaultInterruptHandler TMR1_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"185
+} 0
+"307 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _TMR1_ISRHandler TMR1_ISRHandler `(v  1 e 1 0 ]
+{
+"311
+} 0
+"105 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/tmr1.c
+[v _TMR1_StopTimer TMR1_StopTimer `(v  1 e 1 0 ]
+{
+"109
+} 0
+"164 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_IOC PIN_MANAGER_IOC `(v  1 e 1 0 ]
+{
+"186
+} 0
+"281
+[v _IOCCF7_ISR IOCCF7_ISR `(v  1 e 1 0 ]
+{
+"291
+} 0
+"303
+[v _IOCCF7_DefaultInterruptHandler IOCCF7_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"306
+} 0
+"337 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _encoder1A_InterruptHandler encoder1A_InterruptHandler `(v  1 e 1 0 ]
+{
+"365
+} 0
+"251 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/pin_manager.c
+[v _IOCCF6_ISR IOCCF6_ISR `(v  1 e 1 0 ]
+{
+"261
+} 0
+"273
+[v _IOCCF6_DefaultInterruptHandler IOCCF6_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"276
+} 0
+"368 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _encoder1B_InterruptHandler encoder1B_InterruptHandler `(v  1 e 1 0 ]
+{
+"374
+} 0
+"221 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/pin_manager.c
+[v _IOCCF5_ISR IOCCF5_ISR `(v  1 e 1 0 ]
+{
+"231
+} 0
+"243
+[v _IOCCF5_DefaultInterruptHandler IOCCF5_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"246
+} 0
+"377 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _encoder2A_InterruptHandler encoder2A_InterruptHandler `(v  1 e 1 0 ]
+{
+"404
+} 0
+"191 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/pin_manager.c
+[v _IOCCF4_ISR IOCCF4_ISR `(v  1 e 1 0 ]
+{
+"201
+} 0
+"213
+[v _IOCCF4_DefaultInterruptHandler IOCCF4_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"216
+} 0
+"409 /Users/francesco/MPLABXProjects/Free_Touch.X/main.c
+[v _encoder2B_InterruptHandler encoder2B_InterruptHandler `(v  1 e 1 0 ]
+{
+"413
+} 0
+"197 /Users/francesco/MPLABXProjects/Free_Touch.X/mcc_generated_files/eusart2.c
+[v _EUSART2_Transmit_ISR EUSART2_Transmit_ISR `(v  1 e 1 0 ]
+{
+"214
+} 0
+"252
+[v _EUSART2_DefaultOverrunErrorHandler EUSART2_DefaultOverrunErrorHandler `(v  1 e 1 0 ]
+{
+"258
+} 0
+"250
+[v _EUSART2_DefaultFramingErrorHandler EUSART2_DefaultFramingErrorHandler `(v  1 e 1 0 ]
+{
+} 0
+"260
+[v _EUSART2_DefaultErrorHandler EUSART2_DefaultErrorHandler `(v  1 e 1 0 ]
+{
+"262
+} 0
+"240
+[v _EUSART2_RxDataHandler EUSART2_RxDataHandler `(v  1 e 1 0 ]
+{
+"248
+} 0
