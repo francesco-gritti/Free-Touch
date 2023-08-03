@@ -65,6 +65,10 @@ The axis position is monitored by optical encoder that were 3D printed int the s
 
 the buttons are effectively pressed by a sg90 servo motor
 
+![Details of the embedded encoder of one of the axis](images/IMG_020.jpeg)
+
+![Details of oen of the motor assembly with embedded IR emitter and receiver to read position](images/IMG_021.jpeg)
+
 ## Electronics
 And now the time for electronics
 
@@ -79,13 +83,15 @@ The bluetooth connectivity is handled through Microchip's module ... communicati
 
 ### PCB
 I was a bit in a rush (as every time when you have a deadline to the project) and when designing the PCB I made some mistakes (that is why there should be always a version 2.0 of a PCB) but luckily that happens so frequently that even if it was two years ago I was already quite good at PCB rework
-![](images/IMG_018.jpeg)
-![](images/IMG_019.jpeg)
+![Issues here and there with the PCB design](images/IMG_022.jpeg)
 
 ## Cable management
 I was almost forgetting (as I did while designing the device): cable management
 In fact it's simple to overlook during design at cable management but it is most of the times critical. In this project everything had to fit in a tiny space and the axis had to move freely for almost the entire widtrh and length of the device. If even a tiny cable got stucked somewhere in the internal structure, the tip was blocked and many bad things can happen
 Luckily after some trial and errors I managed to fix the cable in a very lovely way that was nicely organized and allowed the axis to move smoothly
+
+![](images/IMG_008.jpeg)
+![](images/IMG_017.jpeg)
 
 
 ## Version 1.0
