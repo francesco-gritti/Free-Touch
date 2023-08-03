@@ -26,7 +26,7 @@ Before I mentioned that the device could be configured by taking a picture of it
 Usually the configuration process confure people so I will try to explain how it works here:
 - first of all you have to put a tag above the keypad you whish to configure (it will act as a reference to the algorithm to determine position and sizes)
 
-![Keyboard and tag](images/IMG_009.jpeg)
+![Keyboard and tag](images/IMG_009.jpg)
 - than you open the application and connect to the device by scanning it's QR code
 
 ![](images/IMG_013.png)
